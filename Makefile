@@ -2,5 +2,5 @@ browsertest:
 	bash ./support/browsertest.sh
 
 build:
-	@python ./support/build.py plate.js
+	@python2 ./support/build.py plate.js
 
